@@ -5,7 +5,7 @@
   2. Block acid/red raindrops
   3. block falling stars for +1 life(optional)
   
-  add more functions:
+  Add more functions:
   - make flowers the life counter, 
   dissapears when hit by acid rain - suggestion by bleachorage.
 */
