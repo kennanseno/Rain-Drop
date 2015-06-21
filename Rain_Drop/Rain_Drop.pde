@@ -83,7 +83,6 @@ void draw(){
      }
    }
  }
-
   object.displayFlowersAndClouds();
 }
 
