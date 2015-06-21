@@ -49,8 +49,7 @@ void setup(){
   farm = loadImage("farm.png");
   title = loadImage("rain_drop.png");
   farm.resize(500,500);
-  overlay = loadImage("overlay.png");
-  
+  overlay = loadImage("overlay.png"); 
   
   player = new Player(0,height-(playerSize*2),playerSize,playerSize);
   //populate goodRain array object
